@@ -31,10 +31,9 @@ I love to work with:
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISPlatonov&hide=jupyter%20notebook,html,css,roff&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ISPlatonov&include_all_commits=true&count_private=false&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISPlatonov&hide=jupyter%20notebook,html,css,roff&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/isplatonov)
-[![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isplatonov)
+[![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://t.me/isplatonov)
+[![Linkedin](https://img.shields.io/badge/-linkedin-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isplatonov)
+[![](https://img.shields.io/badge/My%20resume-gray?style=for-the-badge)](https://isplatonov.github.io/CV/)
