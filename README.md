@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ## ``> Hello world!``
 
-Highly motivated student passionate about software development, I am eager to solve complex problems alongside skilled and enthusiastic people.
+C++ Software Engineer with experience in development of high-load systems, such as OS rendering and layout engines, embedded systems for multimedia streaming and processing, etc. I am eager to solve complex problems alongside skilled and enthusiastic people.
 
-Currently finishing bachelor of Information and Communication Technology, specializing in Computer Systems and Networking, I am excited to learn and deepen my knowledge and skills in the field.
+I am currently finishing my master of Computer Science, specializing in Software Engineering, having a bachelor of Informatics and Computer Engineering, specializing in Computer Systems and Networking.
 
 ## Interests
 
